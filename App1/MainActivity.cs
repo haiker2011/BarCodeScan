@@ -7,7 +7,7 @@ using Android.Widget;
 using Android.OS;
 using ZXing.Mobile;
 
-
+//test for git
 namespace BarCodeScan
 {
     [Activity(Label = "BarCodeScan", MainLauncher = true, Icon = "@drawable/icon")]
